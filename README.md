@@ -1,7 +1,7 @@
 # SoonhanKwon
 Hello, I'm a **backend developer**. Welcome to my GitHub Space!
 
-I'm mainly programming using Sping.🍀
+I'm mainly programming using Spring.🍀
 
 ### 📝&nbsp;Blog
 
