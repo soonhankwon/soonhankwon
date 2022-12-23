@@ -1,5 +1,5 @@
 # SoonhanKwon
-Hello, I'm a **backend developer**. Welcome to my GitHub Space!
+Hello, I'm a **junior backend developer**. Welcome to my space!
 
 I'm mainly programming using Spring.🍀
 
