@@ -14,6 +14,6 @@ https://soonhankwon.github.io/
 <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Eclipse IDE-Eclipse IDE?style=flat-square&logo=eclipseIde&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooable)](https://solved.ac/sooable)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soonable)](https://solved.ac/soonable)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonhankwon)](https://github.com/soonhankwon/github-readme-stats)
