@@ -8,6 +8,7 @@ I'm mainly programming using Spring & Java.🍀
 ### 📝&nbsp;Tech Blog
 
   <a href="https://soonhankwon.github.io/"><img src="https://img.shields.io/badge/soonhankwon.github.io-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://velog.io/@soonable/"><img src="https://img.shields.io/badge/velog.io/@soonable-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
 ### 🔥 Stack & Studying
