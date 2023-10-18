@@ -3,7 +3,7 @@
 # SoonhanKwon
 Hello, I'm a **backend developer**. Welcome to my space!
 
-I'm mainly programming using Spring & Java.🍀
+I'm mainly programming using Spring & Java & Kotlin.🍀
 
 ### 📝&nbsp;Tech Blog
 
@@ -14,6 +14,7 @@ I'm mainly programming using Spring & Java.🍀
 ### 🔥 Stack & Studying
 <img src ="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=KOTLIN&logoColor=white"></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a> 
 <img src ="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
