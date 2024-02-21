@@ -5,8 +5,6 @@ Hello, I'm a **backend developer and majoring in computer science**. Welcome to 
 
 I'm mainly programming using Spring & Java.
 
-The reason I develop is to solve problems.
-
 I love dogs🐕, skateboarding🛹 and hiphop🎧.
 
 ### 📝&nbsp;Tech Blog
