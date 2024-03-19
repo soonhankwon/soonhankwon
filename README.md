@@ -8,8 +8,6 @@ I'm mainly programming using Spring & Java.
 I love dogs🐕, skateboarding🛹 and hiphop🎧.
 
 ### 📝&nbsp;Tech Blog
-
-  <a href="https://soonhankwon.github.io/"><img src="https://img.shields.io/badge/soonhankwon.github.io-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://velog.io/@soonable/"><img src="https://img.shields.io/badge/velog.io/@soonable-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
@@ -28,8 +26,8 @@ I love dogs🐕, skateboarding🛹 and hiphop🎧.
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 
-### StackOverFlow
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=<soonhankwon>)
+<!--### StackOverFlow
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=20249327) -->
 
 ### ⭐️ Baekjoon Solved Rank
 [![Solved.ac
