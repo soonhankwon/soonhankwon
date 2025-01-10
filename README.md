@@ -1,11 +1,13 @@
 <div align=center> 
   
 # SoonhanKwon
-Hello, I'm a **backend engineer and majoring in computer science**. Welcome to my space!
+Hello, I’m a backend engineer and majoring in computer science. Welcome to my space!
 
-I'm mainly programming using Spring & Java.
+I’m mainly programming using Spring & Java.
 
-I love dogs🐕, skateboarding🛹 and hiphop🎧.
+I used to work at Coupang and am currently working at a travel platform startup.
+
+I love dogs🐕, skateboarding🛹, and hip-hop🎧.
 
 ### 📝 Tech Blog
 <a href="https://velog.io/@soonable/">
