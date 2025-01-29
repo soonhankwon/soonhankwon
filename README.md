@@ -5,7 +5,7 @@ Hello, I’m a backend engineer and majoring in computer science. Welcome to my 
 
 I’m mainly programming using Spring & Java.
 
-I used to work at Coupang and am currently working at a travel platform startup.
+I used to work at Coupang and currently working at a travel platform startup.
 
 I love dogs🐕, skateboarding🛹, and hip-hop🎧.
 
