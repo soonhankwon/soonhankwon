@@ -1,20 +1,15 @@
-<div align=center> 
+<div align=left> 
   
 # SoonhanKwon
-Hello, I’m a backend engineer and majoring in computer science. Welcome to my space!
+Hello, I’m a Backend engineer and majoring in Computer science :)
 
-I’m mainly programming using Spring & Java.
+I’m mainly programming using Java & Spring Framework.
 
-I used to work at Coupang and currently working at a travel platform startup.
+I used to work at Coupang and currently working at a app tech startup.
 
-I love dogs🐕, skateboarding🛹, and hip-hop🎧.
+I love dogs, skateboarding and hip-hop.
 
-### 📝 Tech Blog
-<a href="https://velog.io/@soonable/">
-  <img src="https://img.shields.io/badge/velog.io/@soonable-20c997?style=flat-square&logo=Velog&logoColor=white" alt="Tech Blog"/>
-</a>
-
-### 🔥 Tech Stack
+### Tech Stack
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
@@ -28,20 +23,17 @@ I love dogs🐕, skateboarding🛹, and hip-hop🎧.
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </div>
 
-### 🛠 Tools
+### Dev Tools
 <div>
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Intellij IDEA"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
 
-### ⭐️ Baekjoon Solved Rank
+### Baekjoon Solved Rank(Algorithm)
 <a href="https://solved.ac/soonable">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soonable" alt="Baekjoon Badge"/>
 </a>
 
 <!--### StackOverFlow
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=20249327) -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonhankwon)](https://github.com/soonhankwon/github-readme-stats) -->
-<!-- #### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoonhankwon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com) -->
