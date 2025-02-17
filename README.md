@@ -30,7 +30,7 @@ I love dogs, skateboarding and hip-hop.
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
 
-### Baekjoon Solved Rank(Algorithm)
+### Baekjoon Solved Rank
 <a href="https://solved.ac/soonable">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soonable" alt="Baekjoon Badge"/>
 </a>
