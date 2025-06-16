@@ -5,7 +5,7 @@ Hello, I’m a Backend engineer and majoring in Computer science :)
 
 I’m mainly programming using Java & Spring Framework.
 
-I used to work at Coupang and currently working at a app tech startup.
+I used to work at Coupang and am currently the CTO at an app-tech startup.
 
 I love dogs, skateboarding and hip-hop.
 
