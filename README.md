@@ -9,9 +9,10 @@ Overengineering kills speed and joy.
 > "Perfect is useless if it doesn’t run."
 
 ---
-
 ### About me
-I’ve always admired mathematics and science.
+
+I’ve always admired mathematics and science. 
+
 I love family, dogs, skateboarding and hip-hop 🎧
 
 ---
