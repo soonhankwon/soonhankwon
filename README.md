@@ -1,52 +1,22 @@
-<div align=left> 
+# Soonhan Kwon
+
+Backend engineer. Computer Science and Economics major.  
+Ex-Coupang. Now CTO at an app-tech startup.  
   
-# SoonhanKwon
-Hello, I’m a Backend engineer and majoring in Computer science :)
+I believe in code that runs, in the real world.  
+Overengineering kills speed and joy.
+> "Simple works. Complex breaks."  
+> "Perfect is useless if it doesn’t run."
 
-I’m mainly programming using Java & Spring Framework.
+---
 
-I used to work at Coupang and am currently the CTO at an app-tech startup.
+### About me
+I’ve always admired mathematics and science.
+I love family, dogs, skateboarding and hip-hop 🎧
 
-I love dogs, skateboarding and hip-hop.
-
-### Tech Stack
-<div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white" alt="JPA"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-231F20?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=folium&logoColor=white" alt="Folium"/>
-</div>
-
-### Main Lang
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</div>
-
-### Sub Lang
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</div>
-
-### Dev Tools
-<div>
-  <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="Intellij IDEA"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</div>
+---
 
 ### Baekjoon Solved Rank
 <a href="https://solved.ac/soonable">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soonable" alt="Baekjoon Badge"/>
 </a>
-
-<!--### StackOverFlow
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=20249327) -->
