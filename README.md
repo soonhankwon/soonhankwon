@@ -4,8 +4,6 @@ Backend engineer. Computer Science and Economics major.
 Ex-Coupang. Now CTO at an app-tech startup.  
   
 I believe in code that runs, in the real world.
-> "Simple works. Complex breaks."  
-> "Perfect is useless if it doesn’t run."
 
 ---
 ### About me
