@@ -1,7 +1,11 @@
 # Soonhan Kwon
 
-Backend & Product engineer. Computer Science and Economics major.  
-Ex-Coupang. Now CTO at an app-tech startup.  
+Product Engineer specializing in backend engineering and system architecture. 
+Computer Science and Economics major.  
+
+Ex-Coupang. Currently CTO at an app-tech startup.
+
+Hands-on with machine learning, data analysis and data-driven growth.
 
 ---
 ### About me
