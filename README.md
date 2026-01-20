@@ -2,6 +2,7 @@
 
 Product Engineer specializing in backend engineering and system architecture. 
 Computer Science and Economics major.
+
 Hands-on with machine learning, data analysis and data-driven growth.
 
 ---
