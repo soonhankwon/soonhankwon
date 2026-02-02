@@ -8,10 +8,7 @@ Hands-on with machine learning, data analysis and data-driven growth.
 ---
 ### About me
 
-I believe in code that runs, in the real world.
-
-> "Simple works. Complex breaks."  
-> "Perfect is useless if it doesn’t run."
+I believe in code that runs, in the real world. "Perfect is useless if it doesn’t run."
 
 I’ve always admired mathematics and science. 
 
