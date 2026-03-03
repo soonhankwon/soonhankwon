@@ -5,12 +5,7 @@ Computer Science and Economics major.
 
 Hands-on with machine learning, data analysis and data-driven growth.
 
----
-### About me
-
-I believe in code that runs, in the real world. "Perfect is useless if it doesn’t run."
-
-I’ve always admired mathematics and science. 
+I believe in code that runs, in the real world.
 
 I love family, dogs, skateboarding and hip-hop 🎧
 
